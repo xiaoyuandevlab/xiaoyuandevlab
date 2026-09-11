@@ -118,10 +118,6 @@ Exploring AI through projects involving:
 * Neural Networks
 * AI-powered applications
 
-### 🧮 Calculator
-
-A simple project demonstrating programming fundamentals and Git/GitHub workflow.
-
 ---
 
 ## 📚 Currently Learning
@@ -136,37 +132,6 @@ A simple project demonstrating programming fundamentals and Git/GitHub workflow.
 * 🔥 PyTorch
 * ☁️ Backend & Cloud Technologies
 * 🚀 AI App Development
-
----
-
-## 🎯 My 2026 Goals
-
-* [ ] Build more Android applications
-* [ ] Build more iOS applications
-* [ ] Create cross-platform mobile apps
-* [ ] Build AI-powered mobile applications
-* [ ] Improve my AI & Deep Learning skills
-* [ ] Learn on-device AI
-* [ ] Build and publish real-world apps
-* [ ] Contribute to open-source projects
-* [ ] Build a strong portfolio of mobile + AI projects
-
----
-
-## 💻 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaoyuandevlab&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyuandevlab&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xiaoyuandevlab/xiaoyuandevlab/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
