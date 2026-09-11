@@ -29,13 +29,10 @@ I enjoy turning ideas into real products — from a simple mobile app to an AI-p
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
@@ -137,9 +134,7 @@ Exploring AI through projects involving:
 
 ## 🌟 My Philosophy
 
-> **Build something useful.
-> Learn something new.
-> Turn ideas into reality.**
+> **Build something exciting new out of bound.
 
 ---
 
